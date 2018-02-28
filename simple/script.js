@@ -2,7 +2,7 @@ jQuery(document).ready(function() {
 	var QRBox	=	$('#QRBox');
 	var MainBox	=	$('#MainBox');
 	var BTCQR	=	'images/BTCQR.png';	// 二维码路径
-	var AliPayQR	=	'images/AliPayQR.png';
+	var AliPayQR	=	'https://www.kenzhishi.com/wp-content/uploads/2017/11/wxpay.gif';
 	var WeChanQR	=	'images/WeChanQR.png';
 
 	
